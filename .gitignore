@@ -1,0 +1,57 @@
+# System files
+NTUSER.DAT*
+ntuser.dat*
+ntuser.ini
+
+# User directories
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Cache and config
+.cache/
+.chocolatey/
+.config/
+.dotnet/
+.nuget/
+.ssh/
+.vscode/
+.vscode-server/
+.node_repl_history
+.git-for-windows-updater
+.lesshst
+
+# Node and Python
+node_modules/
+python/
+package-lock.json
+
+# Other specific files
+Procfile
+global.json
+start_bots.bat
+example_private
+example_public
+README.md
+mykey
+mykey.pub
+
+# Application-specific directories
+client-bot/
+doctors-solutions-dashboard/
+control-panel/
+my-express-app/
+myCustomVisual/
+telegram_bot.py
+.cache/ 
+node_modules/ 
