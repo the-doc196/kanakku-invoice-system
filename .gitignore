@@ -32,7 +32,6 @@ Videos/
 .lesshst
 
 # Node and Python
-node_modules/
 python/
 package-lock.json
 
@@ -53,5 +52,4 @@ control-panel/
 my-express-app/
 myCustomVisual/
 telegram_bot.py
-.cache/ 
-node_modules/ 
+node_modules
